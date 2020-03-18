@@ -1,4 +1,4 @@
-# How-to-deploy-reactjs-app-to-AWS
+# How-to-deploy-reactjs-app-to-AWS(EB)
 
 ### `Illustrative video:`
 
